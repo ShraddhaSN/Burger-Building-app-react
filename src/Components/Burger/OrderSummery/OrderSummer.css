@@ -1,0 +1,18 @@
+.OrderButton{
+    background-color: rgb(83, 212, 83);
+    width: 50%;
+    font-weight: bold;
+    color: #000;
+    padding: 10px;
+    outline: none;
+
+}
+
+.CancelButton{
+    background-color:red;
+    width: 50%;
+    font-weight: bold;
+    color: #000;
+    padding: 10px;
+    outline: none;
+}
